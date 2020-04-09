@@ -65,29 +65,39 @@ p{
 }
 
 .character1{
-	background: url(characters/1 .png) no-repeat 0 0;
+	background: url(characters/1.png) no-repeat 0 0;
 	background-size: 100%;
 	width: 363px;
 	height: 344px;
-	position: absolute; top: 10%; right: 10%;
-	transform: rotate(15deg);
+	position: absolute; top: 6%; right: 12%;
+	transform: rotate(8deg);
 }
 
 .character2{
 	background: url(characters/2.png) no-repeat 0 0;
 	background-size: 100%;
-	width: 309px;
+	width: 388px;
 	height: 371px;
-	position: absolute; top: 213px; right: 277px;
+	position: absolute; top: 240px; right: 250px;
 }
 
 .character3{
-	background: url(characters/3 .png) no-repeat 0 0;
+	background: url(characters/3.png) no-repeat 0 0;
 	background-size: 100%;
 	width: 297px;
 	height: 286px;
-	position: absolute; bottom: 74px; right: 109px;
+	position: absolute; bottom: 80px; right: 90px;
 }
+
+
+.character4{
+	background: url(characters/4.png) no-repeat 0 0;
+	background-size: 100%;
+	width: 262px;
+	height: 300px;
+	position: absolute; bottom: 200px; right: 8px;
+}
+
 
 a.cta,
 button.cta{
