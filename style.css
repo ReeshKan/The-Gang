@@ -89,6 +89,16 @@ p{
 	position: absolute; bottom: 74px; right: 109px;
 }
 
+
+.character4{
+	background: url(characters/4.png) no-repeat 0 0;
+	background-size: 100%;
+	width: 262px;
+	height: 300px;
+	position: absolute; bottom: 200px; right: 5px;
+}
+
+
 a.cta,
 button.cta{
 	font-size: 30px;
